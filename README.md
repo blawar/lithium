@@ -7,6 +7,8 @@ Lightweight Nintendo Switch Title Installer.  Works with 7.X.
 
 - **If you are looking for Goldleaf, this is Goldleaf's safer and way more extended evolution.**
 
+If you are a current Goldleaf user, you need Lithium!
+
 # Installation
 Unzip files to your root SD card, then run lithium.nro through homebrew launcher.
 
@@ -17,3 +19,6 @@ If you get an error about signature verification, the file has been modified and
 
 # Adding Network Locations
 Go to the "File Browser", press X to create new, select "FTP", "HTTP", or "NUT" protocol, fill in the required information, then press X to save.  Then you can browse to files and install from the network.
+
+# Other
+This is a simple version of the more advanced Tinfoil: https://github.com/digableinc/tinfoil .  If you are an advanced user, you may enjoy Tinfoil's extra features more.
