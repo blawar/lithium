@@ -1,6 +1,8 @@
 # Lithium
 Lightweight Nintendo Switch Title Installer.  Works with 7.X.
 
+![Logo](lithium.jpg)
+
 > *Nintendo Switch homebrew title installer, for the single purpose of installing titles*
 
 - **If you are looking for Goldleaf, this is Goldleaf's safer and way more extended evolution.**
