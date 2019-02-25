@@ -20,5 +20,8 @@ If you get an error about signature verification, the file has been modified and
 # Adding Network Locations
 Go to the "File Browser", press X to create new, select "FTP", "HTTP", or "NUT" protocol, fill in the required information, then press X to save.  Then you can browse to files and install from the network.
 
+# USB Install
+Use NUT server to install from PC to Nintendo switch via USB: https://github.com/blawar/nut/releases
+
 # Other
 This is a simple version of the more advanced Tinfoil: https://github.com/digableinc/tinfoil .  If you are an advanced user, you may enjoy Tinfoil's extra features more.
