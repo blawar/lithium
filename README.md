@@ -5,10 +5,6 @@ Lightweight Nintendo Switch Title Installer.  Works with 7.X.
 
 > *Nintendo Switch homebrew title installer, for the single purpose of installing titles*
 
-- **If you are looking for Goldleaf, this is Goldleaf's safer and way more extended evolution.**
-
-If you are a current Goldleaf user, you need Lithium!
-
 # Installation
 Unzip files to your root SD card, then run lithium.nro through homebrew launcher.
 
