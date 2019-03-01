@@ -9,6 +9,9 @@ Lightweight Nintendo Switch Title Installer.  Works with 7.X.
 
 If you are a current Goldleaf user, you need Lithium!
 
+Note:  this readme is a parody of goldleaf's readme:
+![Logo](gl.jpg)
+
 # Installation
 Unzip files to your root SD card, then run lithium.nro through homebrew launcher.
 
